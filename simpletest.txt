@@ -1,3 +1,5 @@
+trying to open using git bash
+
 try to uploding to web
 
 editing file and pushing to centralized repositery
